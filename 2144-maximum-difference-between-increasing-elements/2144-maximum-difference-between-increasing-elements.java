@@ -10,6 +10,7 @@ class Solution {
                 else{
                     continue;
                 }
+                
                 maxdiff=Math.max(diff , maxdiff);
             }
         }
