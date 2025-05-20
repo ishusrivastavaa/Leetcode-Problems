@@ -8,12 +8,8 @@ class Solution {
             altitude[i]=altitude[j]+gain[j];
             j++;
         }
-        int max=0;
-        for(int i=0 ; i<altitude.length ; i++){
-            if(altitude[i]>max){
-                max=altitude[i];
-            }
-        }
-        return max;
+        
+        Arrays.sort(altitude);
+        return altitude[altitude.length-1];
     }
 }
