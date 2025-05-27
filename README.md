@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -84,4 +85,5 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
