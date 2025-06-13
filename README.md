@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
@@ -63,6 +64,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## Simulation
