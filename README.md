@@ -56,11 +56,13 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
