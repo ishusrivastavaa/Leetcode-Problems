@@ -6,7 +6,7 @@ class Solution {
         if(ch=='(' || ch=='{' || ch=='['){
             s1.push(ch);
         }
-        else if(ch==')' || ch=='}' || ch==']'){
+        else {
             if(s1.isEmpty()){
                 return false;
             }
