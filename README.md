@@ -31,6 +31,7 @@
 | [0020-valid-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
 | [0782-jewels-and-stones](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0782-jewels-and-stones) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
 ## Trie
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
