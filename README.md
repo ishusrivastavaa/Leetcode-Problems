@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
@@ -42,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
