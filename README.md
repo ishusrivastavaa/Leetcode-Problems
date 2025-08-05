@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -32,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
 | [0782-jewels-and-stones](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0782-jewels-and-stones) |
@@ -45,6 +47,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +111,16 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
