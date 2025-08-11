@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
@@ -59,6 +60,7 @@
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
