@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
