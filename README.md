@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0020-valid-parentheses) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
@@ -112,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
