@@ -3,7 +3,6 @@ class Solution {
        
         StringBuilder sb= new StringBuilder();
         HashMap <Character , Integer> map =new HashMap<>();
-        int count=0;
         int max=Integer.MIN_VALUE;
         for(int i=0 ; i<s.length() ; i++)
         {
@@ -31,6 +30,7 @@ class Solution {
                 }
             }
             max--;
+            
         }
         return sb.toString();
 
