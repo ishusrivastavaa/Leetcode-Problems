@@ -41,6 +41,7 @@
 | [0007-reverse-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 ## Queue
 |  |
@@ -169,4 +171,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
