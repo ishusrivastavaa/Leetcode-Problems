@@ -3,7 +3,7 @@ class Solution {
         int count=0;
         int j=0;
         
-        while(j+1 != nums.length){
+        while(j != nums.length-1){
             
             int val1=0;
             int val2=0;
