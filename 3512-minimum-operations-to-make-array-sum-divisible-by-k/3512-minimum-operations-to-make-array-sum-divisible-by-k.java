@@ -5,11 +5,11 @@ class Solution {
         for(int i=0 ; i<nums.length ; i++){
             sum+=nums[i];
         }
-        int count=0;
+        int newsum=sum;
         while(sum % k !=0 ){
             sum--;
-            count++;
+            
         }
-        return count;
+        return newsum-sum;
     }
 }
