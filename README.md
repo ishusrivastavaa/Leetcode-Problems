@@ -23,6 +23,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
