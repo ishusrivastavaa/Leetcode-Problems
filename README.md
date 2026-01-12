@@ -24,6 +24,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
+| [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -79,6 +80,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
 | ------- |
