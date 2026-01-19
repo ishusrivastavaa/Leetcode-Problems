@@ -17,6 +17,7 @@
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
@@ -110,6 +111,7 @@
 | [0155-min-stack](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
@@ -127,6 +129,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
