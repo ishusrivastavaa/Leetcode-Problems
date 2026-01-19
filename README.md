@@ -68,6 +68,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
