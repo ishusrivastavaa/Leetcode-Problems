@@ -21,6 +21,7 @@
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -43,6 +44,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0782-jewels-and-stones) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
 | [0782-jewels-and-stones](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0782-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3498-reverse-degree-of-a-string) |
@@ -156,6 +159,7 @@
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
@@ -179,6 +183,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
