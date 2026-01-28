@@ -19,6 +19,7 @@
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
+| [0905-sort-array-by-parity](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0905-sort-array-by-parity) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -85,6 +86,7 @@
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0905-sort-array-by-parity) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
@@ -100,6 +102,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0905-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
