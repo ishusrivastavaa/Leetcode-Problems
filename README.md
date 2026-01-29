@@ -22,6 +22,7 @@
 | [0905-sort-array-by-parity](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0922-sort-array-by-parity-ii) |
 | [1293-three-consecutive-odds](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1293-three-consecutive-odds) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
