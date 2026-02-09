@@ -1,23 +1,23 @@
 class Solution {
     public int dominantIndices(int[] nums) {
-        int arr[] = new int[nums.length];
-        arr[arr.length-1]=nums[nums.length-1];
-        for(int i=nums.length-2 ; i>=0 ; i--){
-            arr[i]=nums[i]+arr[i+1];
+        int n = nums.length;
+        int[] suffix = new int[n];
+
+        suffix[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            suffix[i] = nums[i] + suffix[i + 1];
         }
-        int res[] = new int[nums.length-1];
-        int j=0;
-        for(int i=1; i<nums.length ; i++){
-            res[j++]=arr[i];
-        }
-        int count = res.length;
-        int out=0;
-        for(int i=0 ; i<res.length ; i++){
-            if(nums[i]>(res[i]/count)){
+
+        int count = n - 1;
+        int out = 0;
+
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i] > (suffix[i + 1] * 1.0 / count)) {
                 out++;
             }
             count--;
         }
+
         return out;
     }
 }
