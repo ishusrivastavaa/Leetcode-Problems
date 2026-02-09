@@ -14,6 +14,7 @@
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
@@ -151,6 +152,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0303-range-sum-query-immutable) |
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
