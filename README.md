@@ -65,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -79,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0686-repeated-string-match) |
@@ -161,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
