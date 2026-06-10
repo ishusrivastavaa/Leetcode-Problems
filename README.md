@@ -65,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
