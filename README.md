@@ -24,6 +24,7 @@
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0922-sort-array-by-parity-ii) |
@@ -134,6 +135,7 @@
 | [0011-container-with-most-water](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
