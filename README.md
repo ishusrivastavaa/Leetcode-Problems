@@ -41,6 +41,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
+| [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -115,6 +116,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0922-sort-array-by-parity-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
@@ -146,6 +148,7 @@
 | [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
@@ -223,6 +226,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 ## Bucket Sort
 |  |
 | ------- |
