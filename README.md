@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
@@ -258,6 +259,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
