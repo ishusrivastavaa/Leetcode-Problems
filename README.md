@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0904-fruit-into-baskets) |
