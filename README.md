@@ -39,6 +39,7 @@
 | [1833-find-the-highest-altitude](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2079-watering-plants](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2105-watering-plants-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
+| [2079-watering-plants](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2161-partition-array-according-to-given-pivot) |
