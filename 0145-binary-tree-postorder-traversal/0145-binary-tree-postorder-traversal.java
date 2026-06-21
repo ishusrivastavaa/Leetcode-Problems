@@ -19,7 +19,7 @@ class Solution {
         postorder(root , list);
         return list;
     }
-    public static void postorder(TreeNode root , List<Integer> list){
+    public static void postorder(TreeNode root , List<Integer>list){
         if(root==null){
             return ;
         }
