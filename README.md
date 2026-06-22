@@ -26,6 +26,7 @@
 | [0575-distribute-candies](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0904-fruit-into-baskets) |
@@ -165,6 +166,7 @@
 | [0155-min-stack](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0735-asteroid-collision) |
 | [2079-watering-plants](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2105-watering-plants-ii) |
