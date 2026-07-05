@@ -183,6 +183,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0206-reverse-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 ## Game Theory
 |  |
