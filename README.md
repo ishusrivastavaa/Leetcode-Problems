@@ -85,6 +85,7 @@
 | [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2396-strictly-palindromic-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -110,6 +111,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2128-reverse-prefix-of-word) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -286,6 +288,7 @@
 | [0904-fruit-into-baskets](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
 ## Recursion
 |  |
