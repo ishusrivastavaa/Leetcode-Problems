@@ -32,9 +32,11 @@ class Solution {
             }
 
             int sum = digit1 + digit2 + carry;
-
-            carry = sum / 10;
-            sum = sum % 10;
+            carry=0;
+            if(sum>9){
+                carry=1;
+                sum=sum-10;
+            }
 
             temp.next = new ListNode(sum);
             temp = temp.next;
