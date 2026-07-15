@@ -189,6 +189,7 @@
 | [0155-min-stack](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0933-number-of-recent-calls) |
 ## String Matching
 |  |
 | ------- |
@@ -358,4 +360,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
