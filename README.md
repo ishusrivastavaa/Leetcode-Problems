@@ -329,6 +329,7 @@
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0654-maximum-binary-tree) |
 | [1609-even-odd-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
@@ -344,6 +345,7 @@
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0654-maximum-binary-tree) |
 | [1609-even-odd-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1609-even-odd-tree) |
 ## Brainteaser
@@ -378,6 +381,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0623-add-one-row-to-tree) |
 | [1609-even-odd-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1609-even-odd-tree) |
 ## Data Stream
 |  |
