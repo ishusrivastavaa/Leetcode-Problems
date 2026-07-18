@@ -82,6 +82,7 @@
 | [0007-reverse-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0412-fizz-buzz) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -391,4 +393,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
