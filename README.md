@@ -333,6 +333,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
@@ -351,6 +352,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
@@ -369,6 +371,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0513-find-bottom-left-tree-value) |
 | [0563-binary-tree-tilt](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0572-subtree-of-another-tree) |
