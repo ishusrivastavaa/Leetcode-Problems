@@ -1,17 +1,19 @@
-import java.util.*;
 class Solution {
     public int maxProduct(int n) {
-        ArrayList<Integer> list = new ArrayList<>();
         int num=n;
+        int max=0 , prevmax=0;
         while(num>0){
             int rem = num%10;
-            list.add(rem);
+            if(rem>max){
+                prevmax=max;
+                max=rem;
+            }
+            else if(rem>prevmax){
+                prevmax=rem;;
+            }
+            
             num=(num-rem)/10;
         }
-        Collections.sort(list);
-        int m1= list.get(list.size()-1);
-        int m2=list.get(list.size()-2);
-        return m1*m2;
-        
+        return max*prevmax;
     }
 }
