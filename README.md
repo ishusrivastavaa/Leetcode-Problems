@@ -57,6 +57,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2551-apply-operations-to-an-array) |
 | [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3463-alternating-groups-i) |
@@ -94,6 +95,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2396-strictly-palindromic-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3536-maximum-product-of-two-digits) |
