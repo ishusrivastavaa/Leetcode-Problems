@@ -96,6 +96,7 @@
 | [2396-strictly-palindromic-number](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2396-strictly-palindromic-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2611-mice-and-cheese](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2611-mice-and-cheese) |
 | [2706-buy-two-chocolates](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
