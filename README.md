@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0260-single-number-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -302,6 +303,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -343,6 +345,7 @@
 | [0110-balanced-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0513-find-bottom-left-tree-value) |
@@ -382,6 +385,7 @@
 | [0110-balanced-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ishusrivastavaa/Practice-Problem/tree/master/0513-find-bottom-left-tree-value) |
